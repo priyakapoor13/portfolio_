@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto" viewBox="0 0 82 60">
+  <defs>
+    <linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#FF6A3D"/>
+      <stop offset="100%" stop-color="#FF2D95"/>
+    </linearGradient>
+  </defs>
+  <text y="32" style="fill:url(#a);font-size:22px;font-family:'Brush Script MT','Segoe Script','Lucida Handwriting',cursive;font-weight:400;opacity:1">
+    Priya
+  </text>
+</svg>
