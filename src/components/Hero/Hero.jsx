@@ -1,11 +1,15 @@
 import React from 'react';
 import './Hero.css';
-import profile_img from '../../assets/profile_img.svg';
+import profile_img from '../../assets/photo.jpg';
+import resume from '../../assets/resume.pdf';
 
 export const Hero = () => {
   return (
     <div id="home" className="hero">
       {/* Floating bubbles */}
+      <div className="bubble"></div>
+      <div className="bubble"></div>
+      <div className="bubble"></div>
       <div className="bubble"></div>
       <div className="bubble"></div>
       <div className="bubble"></div>
@@ -29,7 +33,9 @@ export const Hero = () => {
           <a className="anchor-link" href="#contact">Connect with me</a>
         </div>
         <div className="hero-resume">
-          <a className="anchor-link" href="link-to-your-resume.pdf" target="_blank" rel="noopener noreferrer">My resume</a>
+         <a className="anchor-link" href={resume} target="_blank" rel="noopener noreferrer">
+             My resume
+          </a>
         </div>
       </div>
     </div>

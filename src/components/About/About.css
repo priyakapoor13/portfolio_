@@ -122,13 +122,13 @@
 @media (max-width: 999px) {
     .about {
       gap: 40px;
-      margin: 40px 30px;
+      margin: 40px 50px;
       align-items: start;
       padding-left: 40px;
     }
   
     .about-title h1 {
-      font-size: 40px;
+      font-size: 50px;
       padding: 0;
     }
   
@@ -168,4 +168,18 @@
   }
    
    
+
+ 
+@media (min-width: 912px) {
+  .about-title {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .about-title h1 {
+    text-align: center;
+  }
+}
+ 
 

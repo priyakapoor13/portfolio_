@@ -26,7 +26,7 @@ const Footer = () => {
         <a  href="mailto:priyakapoor2200@gmail.com" target="_blank" rel="noopener noreferrer">
           <img src={mail_icon} alt="GitHub" className="footer-icon" />
         </a>
-        <a href="www.linkedin.com/in/priya-kapoor-862029264" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/priya-kapoor-862029264" target="_blank" rel="noopener noreferrer">
           <img src={linkedin_icon} alt="LinkedIn" className="footer-icon" />
         </a>
         <a href="https://github.com/priyakapoor13" target="_blank" rel="noopener noreferrer">
