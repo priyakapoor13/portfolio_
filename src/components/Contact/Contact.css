@@ -196,3 +196,13 @@
     }
   }
   
+@media (max-width: 360px) {
+  .contact-title h1 {
+    font-size: 40px;
+  }
+  .contact-left p {
+        font-size: 15px;
+    }
+
+
+}

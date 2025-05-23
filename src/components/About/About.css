@@ -70,6 +70,7 @@
 }
 
 
+
 @media (max-width: 480px) {
   .about-left img {
     width: 50vw;
@@ -183,3 +184,9 @@
 }
  
 
+@media (max-width: 360px) {
+  .about-title h1 {
+    font-size: 40px;
+  }
+
+}
